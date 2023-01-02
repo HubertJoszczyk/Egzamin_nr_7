@@ -1,0 +1,40 @@
+body{
+    margin: 0 auto;
+}
+header{
+    background-color: #00839C;
+    color: white;
+    text-align: center;
+    height: 80px;
+    font-family: Tahoma;
+}
+#lewy{
+    background-color: #20D9FB;
+    width: 30%;
+    height: 750px;
+    float: left;
+}
+#prawy{
+    background-color: #00BDE2;
+    width: 70%;
+    height: 750px;
+    float: left;
+}
+footer{
+    color: white;
+    text-align: right;
+    background-color: #00839C;
+}
+img{
+    padding: 30px;
+    border: 2px solid blue;
+}
+a:visited{
+    color: white;
+}
+button{
+    background-color: blue;
+    color: white;
+    border: none;
+    margin: 20px;
+}
